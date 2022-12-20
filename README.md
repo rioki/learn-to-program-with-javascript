@@ -31,5 +31,5 @@ know that here the rabbit holes does go deeper.
 
 You should follow the lessons in order, but can go back to any if you like.
 
-* [0 Introduction and Setting up Your Environment](lessons/0-setting-up-your-environment.md)
+* [Lesson 0: Setting up Your Environment](lessons/0-setting-up-your-environment.md)
 
