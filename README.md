@@ -16,11 +16,11 @@ trades and there is basically nothing you can not do with Java Script.
 
 ## Lie To Children
 
-I will employ a so called [lie to children] allot. That is I will tell with 
-certainty somethign that I know is an gross oversimplification. I am doing this
+I will employ a so called [lie to children] allot. I will tell with 
+certainty something that I know is an oversimplification. I am doing this
 with the aim to make understanding simpler, the same way you learn in high school
-about apples falling on Newton's head and later in University about Enstein's 
-Relitivity.
+about apples falling on Newton's head and later in University about Einstein's 
+relativity.
 
 As far as possible I will mark sections with lie to children, to make sure you
 know that here the rabbit holes does go deeper.
