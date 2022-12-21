@@ -547,3 +547,47 @@ while (i <= 100)  {
 }
 ```
 
+As you can see we added an additional if block that check both conditions. I
+used additional braces to visually separate the division by 3 and the division
+by 5. This is not necessary, but a good idea to make things clear. 
+
+You can use braces to group expressions. Sometimes this may be necessary to 
+get exactly what you want. Java Script has operator precedence like in math,
+so `6 / 2 + 1` is 4 and `6 / (2 + 1)` is 2. 
+
+*lie to children*: Java Script has way more operators than math, because it also
+contains logical operators like `&&` and much more. Here is a [table][1] of all
+operators and their precedence. But you probably should not bother yourself with
+this yet, generally the precedence is what you think it is and it just works.
+
+The output now looks as follows:
+
+```
+C:\Users\seanf\Documents\GitHub\fizzbuzz>node fizzbuzz.js
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+Fizz Buzz
+16
+17
+```
+
+This is Fizz Buzz, not commit the changes and rejoice that you created a 
+fully functional program.
+
+You can see my program on GitHub here: https://github.com/rioki/fizzbuzz
+I just added a README.md file so people know what it is.
+
+[1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence#table
+

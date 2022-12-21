@@ -62,4 +62,4 @@ installer by just clicking next all the time.
 [node.js]: https://nodejs.org/en/
 
 If you installed all the above software, you should be ready to go for the
-next Lesson where we talk about Syntax. (Comming soon)
+next Lesson where we talk about Syntax.
