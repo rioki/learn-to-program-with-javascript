@@ -192,7 +192,7 @@ Now that we understood what how variables work on a basic level, we will undo
 our changes, since the previous state of the program is a bit closer
 to Fizz Buzz than the current one.
 
-To undo the changes go to GitHub for Desktop and richt click "fizzbuzz.js" and
+To undo the changes go to GitHub for Desktop and right click "fizzbuzz.js" and
 select "Discard changes". You will see a pop up asking you if you are certain 
 you want to discard the changes and with great certainty select "Discard changes".
 
@@ -271,7 +271,7 @@ while (i <= 100)  {
 In this program we create a variable `i`, this will be our counter, or index. 
 Remember math, where the count variables i, j and k are used? We programers
 do the same thing. Normally we take care to name our variables something sensible,
-but i, j, and k are automatically assumed to tbe counters.
+but i, j, and k are automatically assumed to be counters.
 
 We set i to 1, since the first value we need to output is a 1. 
 
@@ -393,7 +393,7 @@ C:\Users\seanf\Documents\GitHub\fizzbuzz>
 Wow, it can count until 100 and that is allot of output. From now on, I will
 trim the output. Just use you judgement if the output is correct or not. 
 
-*lie to children*: There are more types of loops. A common one is the for loop
+*lie to children*: There are more types of loops. A common one is the for loop,
 but more on that later.
 
 This is one step closer to Fizz Buzz, so commit the changes.
@@ -409,11 +409,11 @@ Let's check for Fizz, that is is the number divisible by 3. But before we can
 get to programing, we need to think about how can we check if a number is 
 divisible by 3, with math? 
 
-A number is divisible by 3, when the result of the division is a while number
+A number is divisible by 3, when the result of the division is a whole number
 or in other words, the remainder is 0. In this vain, we have a special operator
 that will only compute the remainder, the modulo operator. The modulo operator
 is denoted with the `%` sign. So if you see the percent sign in a program, 
-it's modulo, not percent... I know it's a but confusing.
+it's modulo, not percent... I know it's a bit confusing.
 
 ```js
 let i = 1;
@@ -428,7 +428,7 @@ while (i <= 100)  {
 }
 ```
 
-We add a if block in which we check if the number if divisible by 3 and then 
+We add an if block in which we check if the number if divisible by 3 and then 
 output Fizz, if that is not the case we have an else block that will just 
 output the number as before.
 
@@ -547,7 +547,7 @@ while (i <= 100)  {
 }
 ```
 
-As you can see we added an additional if block that check both conditions. I
+As you can see we added an additional if block that checks both conditions. I
 used additional braces to visually separate the division by 3 and the division
 by 5. This is not necessary, but a good idea to make things clear. 
 
@@ -583,7 +583,7 @@ Fizz Buzz
 17
 ```
 
-This is Fizz Buzz, not commit the changes and rejoice that you created a 
+This is Fizz Buzz, now commit the changes and rejoice that you created a 
 fully functional program.
 
 You can see my program on GitHub here: https://github.com/rioki/fizzbuzz
