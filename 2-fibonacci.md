@@ -464,6 +464,9 @@ thing is that the functions we call for n-1 and n-2 will also check if they have
 the value. As a result the cache gets filled quite quickly, even if you start at 
 value 1000.
 
+Aren't we missing the case for 0 and 1? Actually no, since we already put the 
+values into the cache, they will always be in the cached case.
+
 And the rest of the progam is again in it's old glory:
 
 ```js
