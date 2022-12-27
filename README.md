@@ -33,3 +33,4 @@ You should follow the lessons in order, but can go back to any if you like.
 
 * [Lesson 0: Setting up Your Environment](0-setup.md)
 * [Lesson 1: Basic Syntax](1-fizzbuzz.md)
+* [Lesson 2: More Basic Syntax](2-fibonacci.md)
